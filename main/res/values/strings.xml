@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="hyperlink">Github: <a href= "https://github.com/sofiyasaad">Github Profile</a></string>
+</resources>
